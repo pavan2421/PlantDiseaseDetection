@@ -1,9 +1,12 @@
 🌱 Plant Disease Detection using Deep Learning
+
+
+
 📌 Introduction
 
 Farmers lose a significant portion of their crop yield every year due to late or incorrect identification of plant diseases, which impacts both food security and income. Manual inspection is slow, error-prone, and often unavailable in rural areas, while excessive pesticide use damages soil, water, and the environment. To address these issues, we propose a deep learning-based solution that can automatically detect plant diseases from leaf images and assist farmers with timely, accurate, and sustainable crop protection.
 
-🚜 Challenges in Traditional Disease Detection
+🚜 Challenges in Traditional Disease Detection :
 
 Manual inspection is time-consuming, subjective, and often inaccurate.
 
@@ -15,7 +18,7 @@ Large-scale farming makes plant-by-plant inspection impractical.
 
 Climate variations accelerate the spread of diseases.
 
-🤖 Proposed Solution
+🤖 Proposed Solution :
 
 A Deep Learning-based approach using Convolutional Neural Networks (CNNs):
 
@@ -29,7 +32,7 @@ Deployable on mobile phones, IoT devices, or drones, enabling easy access even i
 
 Promotes sustainability by reducing pesticide misuse and improving crop health.
 
-✅ Results & Key Highlights
+✅ Results & Key Highlights :
 
 Demonstrated AI’s potential in solving real-world agricultural problems.
 
@@ -39,7 +42,7 @@ Early detection reduces pesticide misuse, lowers costs, and supports sustainable
 
 Practical deployment on mobile/IoT platforms ensures accessibility for farmers worldwide.
 
-🔮 Future Scope
+🔮 Future Scope :
 
 Integration with drones for aerial crop monitoring at large scale.
 
@@ -49,7 +52,7 @@ Expansion to more crops and regions by incorporating diverse datasets.
 
 Farmer advisory systems that recommend optimal remedies along with disease detection.
 
-⚡ Technologies Used
+⚡ Technologies Used :
 
 Python, TensorFlow / PyTorch
 
@@ -57,6 +60,3 @@ OpenCV & NumPy for preprocessing
 
 EfficientNet, CNNs for deep learning
 
-Flask / Django for web deployment
-
-TensorFlow Lite / ONNX for mobile deployment
